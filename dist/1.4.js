@@ -18,4 +18,9 @@ d = true;
 // Array
 let friends = ["a", "b"];
 friends.push("c");
+console.log(friends);
 let eligibleRollList = [38, 74];
+// tuple ---> array --->order --> type of value
+let coordinates = [1, 5];
+let ageName = [23, "jerin"];
+let ageNameBool = [23, "jerin", true];
