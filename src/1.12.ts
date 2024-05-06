@@ -25,4 +25,10 @@
   };
 
   getSpeedInMeterPerSecond(`1000 kmh^-1`);
+
+  // Never Type
+  const throwError = (msg: string): never => {
+    throw new Error(msg);
+  };
+  throwError("Error");
 }
