@@ -1,1 +1,1 @@
-# TypeScript Technocrat
+# TypeScript Technocrat (Basic Typescript)
